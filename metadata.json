@@ -1,0 +1,8 @@
+{
+  "name": "SpeakUp 30-Day Challenge",
+  "description": "Master your camera presence with a 30-day AI-guided speaking challenge. Get real-time help when you stumble and professional feedback to improve every day.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
